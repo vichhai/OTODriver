@@ -11,7 +11,7 @@ import UIKit
 class VerificationViewModel: NSObject {
 
     public func checkVerificationCode(code : String) {
-        
+        // add something new
     }
     
     
